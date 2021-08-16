@@ -9,3 +9,4 @@ The file "Company_Community_2015_GC_Louvain.csv" provides the community of each 
 
 The file "Company_Sector_Community1.csv" and "Company_Sector_Community2.csv" provide the sector of comapnies. Each column in turn is the coded comapny name, community number and sector.
 
+The rest of the R codes can correspond to the figures in the paper according to the file name.
